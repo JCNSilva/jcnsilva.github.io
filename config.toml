@@ -1,10 +1,11 @@
 baseurl = "https://jcnsilva.github.io"
 DefaultContentLanguage = "pt-BR"
-title = "Júlio Neves"
+title = "Júlio César Neves"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
+lastChange = "2017"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
@@ -47,7 +48,7 @@ pygmentCodeFences = true
 #  instagram = "username"
 #  youtube = "user/username" # or channel/channelname
 #  soundcloud = "username"
-  spotify = "12153765291"
+#  spotify = "12153765291"
 #  bandcamp = "username"
 #  itchio = "username"
 #  vk = "username"
