@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jcnsilva.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://jcnsilva.github.io/categories/</loc>
     <priority>0</priority>
   </url>

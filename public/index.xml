@@ -9,14 +9,5 @@
 	<atom:link href="https://jcnsilva.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://jcnsilva.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcnsilva.github.io/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
